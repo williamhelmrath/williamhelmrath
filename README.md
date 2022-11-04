@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-**I'm a fullstack web developer currently studying CS at the University of Virginia's School of Engineering.**
+**I'm a fullstack web developer currently at Instabase.**
 
-**Check out my website [here](https://personal-site-williamhelmrath.vercel.app/)!**
+**Check out my website [here](https://williamhelmrath.vercel.app/)!**
